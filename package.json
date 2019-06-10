@@ -1,0 +1,25 @@
+{
+  "name": "react-googlesheets",
+  "version": "0.0.1",
+  "description": "A react app that reads from google sheet for testing.",
+  "keywords": ["react-app", "googlesheets", "tabletop"],
+  "author": "Chris Trees",
+  "homepage": "https://github.com/christrees/react-googlesheets",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christrees/react-googlesheets.git"
+  },
+  "dependencies": {
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-scripts": "1.1.5",
+    "tabletop": "^1.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
